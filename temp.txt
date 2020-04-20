@@ -1,0 +1,4 @@
+Hello World~~~
+This is my first git homework~~~
+
+The version 1.0.
