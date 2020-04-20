@@ -1,6 +1,5 @@
 Hello World~~~
 This is my first git homework~~~
-lallala ~~~~lalallala~~~woshi maibao de xiaohangjia~~~
-shengme come~~~
+I like cake ~~~ Do you like cake?
 
-The version 1.0.
+The version 2.0.
