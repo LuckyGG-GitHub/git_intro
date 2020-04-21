@@ -1,12 +1,13 @@
 Hello~~
 This is my second git file.
+
 upgrade 1
 upgrade 2
 upgrade 3
-4
+this is the 4
 5
 upgrade 6
-7
+i am on the line 7 .
 8
 9
 10
