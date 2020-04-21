@@ -1,11 +1,11 @@
 Hello~~
 This is my second git file.
-1
-2
-3
+upgrade 1
+upgrade 2
+upgrade 3
 4
 5
-6
+upgrade 6
 7
 8
 9
